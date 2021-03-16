@@ -1,0 +1,6 @@
+a=5
+b=2.7
+c='98'
+res=float(a)+b+float(c)
+print(res)
+105.7
